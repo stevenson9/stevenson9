@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! 👋
+
+I'm Steven, a student at UBC studying Computer Science 💻
+
+Previously a Software Engineer Intern @ [Clio](https://www.clio.com/) - Summer 2023
+
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/steven-son9/)!
 
 <!--
 **stevenson9/stevenson9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
