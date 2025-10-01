@@ -2,9 +2,11 @@
 
 I'm Steven, a student at UBC studying Computer Science 💻
 
+Software Engineer Intern @ [Meta](https://www.meta.com/) - Summer 2025
+
 Software Engineer Intern @ [Chime](https://www.chime.com/) - Summer 2024
 
-Previously a Software Engineer Intern @ [Clio](https://www.clio.com/) - Summer 2023
+Software Engineer Intern @ [Clio](https://www.clio.com/) - Summer 2023
 
 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/steven-son9/)!
 
